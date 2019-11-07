@@ -17,7 +17,7 @@ iframe{
 }
 
 .topSection {
-  background: -webkit-linear-gradient(69deg, white 51%, rgb(116, 10, 134) 51%);
+  background-image: linear-gradient(to left bottom,rgb(116, 10, 134) 50%, white 50% );
 }
 
 .secondRow {
