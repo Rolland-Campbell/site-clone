@@ -2,3 +2,30 @@
   height: 70px;
   width: 70px;
 }
+
+.headerSize {
+  height: 150px;
+}
+
+.topRow {
+  align-content: center;
+  text-align: center;
+}
+
+.topSection {
+  background: -webkit-linear-gradient(69deg, white 51%, rgb(116, 10, 134) 51%);
+}
+
+.middleRow {
+  background-color: yellow;
+}
+
+.circlePic {
+ height: 200px;
+ width: 200px;
+ border-radius: 50%;
+}
+
+.buttonUp {
+  po
+}
