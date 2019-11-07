@@ -38,3 +38,33 @@ iframe{
 .card {
   background-color: rebeccapurple;
 }
+
+.scottishWarrior {
+  height: 300px;
+  width: auto;
+}
+
+.logoBottom {
+  background-color: rebeccapurple;
+}
+
+.logoBig {
+   height: 150px;
+  width: 150px;
+}
+
+.footerRow {
+  height: 40px;
+  background-color: black;
+  border-top-color: red;
+  border-width: 2px;
+  border-style: solid;
+}
+
+.bottomLeft {
+align-content: flex-start;
+}
+
+.bottomRight {
+align-content: flex-end;
+}
